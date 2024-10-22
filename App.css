@@ -1,0 +1,26 @@
+
+#input{
+    width: 270px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 100px;
+    padding-left: 30px;
+    background-color: black;
+    color: white;
+}
+button{
+    background-color:lightblue;
+    border: none;
+    width: 50px;
+    height: 40px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin: 10px 10px 10px 10px;
+}
+
+.keypad{
+    margin-left: 100px; 
+}
+
+
+
